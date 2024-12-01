@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/karan_padhiyar/static/css/main.5eb01cbf.css",
-    "main.js": "/karan_padhiyar/static/js/main.3b6dd7b5.js",
+    "main.css": "/karan_padhiyar/static/css/main.652c5f36.css",
+    "main.js": "/karan_padhiyar/static/js/main.def0bd5f.js",
     "static/js/453.ced158cf.chunk.js": "/karan_padhiyar/static/js/453.ced158cf.chunk.js",
     "static/media/bc.webp": "/karan_padhiyar/static/media/bc.ed3bb9d33960933fc9aa.webp",
     "static/media/Prj1-Pc-Vid1.mp4": "/karan_padhiyar/static/media/Prj1-Pc-Vid1.48097b184b08a339c1be.mp4",
@@ -18,12 +18,12 @@
     "static/media/prj1-pc1.png": "/karan_padhiyar/static/media/prj1-pc1.354b8e273b0ae52c978c.png",
     "static/media/prj1-mb1.png": "/karan_padhiyar/static/media/prj1-mb1.7e855fbb3f477b33fb70.png",
     "index.html": "/karan_padhiyar/index.html",
-    "main.5eb01cbf.css.map": "/karan_padhiyar/static/css/main.5eb01cbf.css.map",
-    "main.3b6dd7b5.js.map": "/karan_padhiyar/static/js/main.3b6dd7b5.js.map",
+    "main.652c5f36.css.map": "/karan_padhiyar/static/css/main.652c5f36.css.map",
+    "main.def0bd5f.js.map": "/karan_padhiyar/static/js/main.def0bd5f.js.map",
     "453.ced158cf.chunk.js.map": "/karan_padhiyar/static/js/453.ced158cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5eb01cbf.css",
-    "static/js/main.3b6dd7b5.js"
+    "static/css/main.652c5f36.css",
+    "static/js/main.def0bd5f.js"
   ]
 }
