@@ -1,21 +1,29 @@
 {
   "files": {
-    "main.css": "/karan_padhiyar/static/css/main.f8e91d3f.css",
-    "main.js": "/karan_padhiyar/static/js/main.437ccdea.js",
+    "main.css": "/karan_padhiyar/static/css/main.5eb01cbf.css",
+    "main.js": "/karan_padhiyar/static/js/main.3b6dd7b5.js",
     "static/js/453.ced158cf.chunk.js": "/karan_padhiyar/static/js/453.ced158cf.chunk.js",
     "static/media/bc.webp": "/karan_padhiyar/static/media/bc.ed3bb9d33960933fc9aa.webp",
-    "static/media/mm3.jpg": "/karan_padhiyar/static/media/mm3.a17b97224b65fa2a3a1f.jpg",
+    "static/media/Prj1-Pc-Vid1.mp4": "/karan_padhiyar/static/media/Prj1-Pc-Vid1.48097b184b08a339c1be.mp4",
+    "static/media/Prj1-Mb-Vid2.mp4": "/karan_padhiyar/static/media/Prj1-Mb-Vid2.b7dcc0318ed188502a11.mp4",
+    "static/media/Prj1-Mb-Vid1.mp4": "/karan_padhiyar/static/media/Prj1-Mb-Vid1.6cd1e948ac59e0d5e76a.mp4",
+    "static/media/Prj1-Pc-Vid2.mp4": "/karan_padhiyar/static/media/Prj1-Pc-Vid2.ab9e236bd33e7f1b2abe.mp4",
     "static/media/Geologica.ttf": "/karan_padhiyar/static/media/Geologica.f3e3fbc9355fd9e0c193.ttf",
-    "static/media/project1.png": "/karan_padhiyar/static/media/project1.00d958e413679bf790ea.png",
+    "static/media/prj2.png": "/karan_padhiyar/static/media/prj2.8f8dafaf720d60b70f50.png",
+    "static/media/Prj1-Pc-Vid3.mp4": "/karan_padhiyar/static/media/Prj1-Pc-Vid3.c9fab5b940ce8b4d2a83.mp4",
+    "static/media/prj1.png": "/karan_padhiyar/static/media/prj1.e15b566daea6d4d67d17.png",
     "static/media/Benz Grotesk.ttf": "/karan_padhiyar/static/media/Benz Grotesk.fae16a41f117f6873be1.ttf",
+    "static/media/mm3.jpg": "/karan_padhiyar/static/media/mm3.f26fa18395467c3e6994.jpg",
     "static/media/IDGrotesk.ttf": "/karan_padhiyar/static/media/IDGrotesk.475e08348a30cdb7f321.ttf",
+    "static/media/prj1-pc1.png": "/karan_padhiyar/static/media/prj1-pc1.354b8e273b0ae52c978c.png",
+    "static/media/prj1-mb1.png": "/karan_padhiyar/static/media/prj1-mb1.7e855fbb3f477b33fb70.png",
     "index.html": "/karan_padhiyar/index.html",
-    "main.f8e91d3f.css.map": "/karan_padhiyar/static/css/main.f8e91d3f.css.map",
-    "main.437ccdea.js.map": "/karan_padhiyar/static/js/main.437ccdea.js.map",
+    "main.5eb01cbf.css.map": "/karan_padhiyar/static/css/main.5eb01cbf.css.map",
+    "main.3b6dd7b5.js.map": "/karan_padhiyar/static/js/main.3b6dd7b5.js.map",
     "453.ced158cf.chunk.js.map": "/karan_padhiyar/static/js/453.ced158cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8e91d3f.css",
-    "static/js/main.437ccdea.js"
+    "static/css/main.5eb01cbf.css",
+    "static/js/main.3b6dd7b5.js"
   ]
 }
